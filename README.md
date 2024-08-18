@@ -14,7 +14,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Python, Machine Learning, Clustering, Regression Models**
 
-- 🌱 I’m currently learning **Scikit-learn library**
+- 🌱 I’m currently learning **Scikit-learn**
 
 - ☁️ I've keen interest in machine learning. So,I'm learning **Python + SQL + FLask/Django**
 
