@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Scikit-learn**
 
-- ☁️ I've keen interest in machine learning. So,I'm learning **Python + SQL + FLask/Django**
+- ☁️ I've keen interest in machine learning. So,I'm learning **Python + SQL + Typescript + React**
 
 - 💬 Ask me about **Python, Data science, Statistics**
 
