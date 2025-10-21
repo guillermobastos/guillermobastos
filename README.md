@@ -16,11 +16,11 @@
 
 - 🌱 I’m currently learning **Scikit-learn**
 
-- ☁️ I've keen interest in machine learning. So,I'm learning **Python + SQL + Typescript + React**
+- ☁️ I've keen interest in machine learning. So,I'm learning **Python + SQL + Flask + ML**
 
 - 💬 Ask me about **Python, Data science, Statistics**
 
-- 📫 Feel free to reach me out **guilleribastos@gmail.com**
+- 📫 Feel free to reach me out **bastosribasguillermo@gmail.com**
 
 <!-- - 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username! -->
 <!--Intro end-->
