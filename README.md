@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Scikit-learn**
 
-- ☁️ I've keen interest in machine learning. So,I'm learning **Python + SQL + Flask + ML**
+- ☁️ I've keen interest in machine learning. So,I'm learning **Python + SQL + FastApi + ML**
 
 - 💬 Ask me about **Python, Data science, Statistics**
 
